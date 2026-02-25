@@ -1,3 +1,7 @@
+> **⚠️ Archived** — This project has been superseded by [agent-brain](https://github.com/viggomeesters/agent-brain), which consolidates all agent scripts, context, and skills in one repo.
+
+---
+
 # Agent Scripts
 
 This folder collects the Sweetistics guardrail helpers so they are easy to reuse in other repos or share during onboarding. Everything here is copied verbatim from `/Users/steipete/Projects/sweetistics` on 2025-11-08 unless otherwise noted.
